@@ -15,7 +15,11 @@ ko.applyBindings(myviewModel)'
 
 ## Installation
 
-<script src="./ko-truncate.js"></script>
+<script src="./ko.truncate.min.js"></script>
+
+## Demo
+<a href="https://jsfiddle.net/sonsor/19uj8bnd/">https://jsfiddle.net/sonsor/19uj8bnd/</a>
 
 
 ## License
+GPL
